@@ -1,1 +1,1 @@
-TODO: Add contents for README
+This repo represents my practice during short breaks while in office.
