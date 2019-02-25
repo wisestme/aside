@@ -14,7 +14,7 @@ if(yourNumber == randomNumber) {
 	alert("try again");
 }
 */
-let age = 25;
+let age = prompt("How old are you?");
 let name = "Wisest";
 
 if(age > 14) {
